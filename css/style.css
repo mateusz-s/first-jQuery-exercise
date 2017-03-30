@@ -1,0 +1,15 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 2rem;
+    font-family: 'Arial', sans-serif;
+}
+
+.btn {
+    color: #1E90FF;
+    background-color: inherit;
+    padding: 10px 30px;
+    border: 2px solid #1E90FF;
+}
