@@ -15,7 +15,8 @@ $(document).ready(function() {
         $(elem).append(br, button);
     });
     
-    $('button').click(function() {
+    var button = $('button');
+    button.click(function() {
         alert($(this).attr('data-tmp'));
     });
 });
